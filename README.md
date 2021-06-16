@@ -1,12 +1,16 @@
-# Welcome to GitHub
+# FakeRecogna
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+FakeRecogna is a dataset to study Fake News in Portuguese, which contains 8 columns with 10,898 lines, each corresponding to a news story.
 
-## Repositories
+## The Dataset
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+The news collection was performed by crawlers developed for mining pages of well-known and of great national importance agency news. The fake news mining was mainly focused on pages mentioned by the [Duke Reporters Lab](https://reporterslab.org/fact-checking/), which provides a list of pages that verify the veracity of news worldwide.There were 160 active fact-checking agencies in the world in 2019 and Brazil figures as a growing ecosystem with currently 9 initiatives as displayed in Table 1.
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+| Agency | Web address |  |----------|:-------------: | AFP Checamos| https://checamos.afp.com/afp-brasil
+
+The collected texts are distributed in six categories: Science, Entertainment, Sports, Politics, Health,
+and Brazil whose distribution is depicted in Figure.
+
 
 ## Describe your project
 
